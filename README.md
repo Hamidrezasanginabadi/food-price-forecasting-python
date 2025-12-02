@@ -17,3 +17,4 @@ food-price-forecasting-python/
 │
 └── data/
     └── sample_prices.csv
+Updated for JobVision sample.
