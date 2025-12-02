@@ -1,20 +1,9 @@
-# Food Price Forecasting (Python)
+# Algorithms in Java & C++
 
-This project demonstrates a simple end-to-end price forecasting workflow using Python.
+This project includes simple algorithm implementations in Java and C++:
+- Bubble Sort (Java)
+- BFS (Java)
+- Insertion Sort (C++)
+- DFS (C++)
 
-## Structure
-food-price-forecasting-python/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-│
-├── src/
-│   ├── data_loader.py
-│   ├── features.py
-│   ├── model.py
-│   └── visualization.py
-│
-└── data/
-    └── sample_prices.csv
-Updated for JobVision sample.
+Prepared as a clean sample for job platforms.
